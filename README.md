@@ -9,7 +9,7 @@ Netflix needs no introduction – it's a global powerhouse in the realm of media
 
 ## Business Problem 📈
 
-Analyze the data and generate insights that could help Netflix ijn deciding which type of shows/movies to produce and how they can grow the business in different countries.
+Analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries.
 
 ## Dataset 📋
 Link: [Dataset_link](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/netflix.csv)
