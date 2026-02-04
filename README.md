@@ -29,4 +29,4 @@ The dataset at the heart of this exploration includes a comprehensive listing of
 - **Listed_in:** Genre.
 - **Description:** A brief summary description.
 
-## 📈 Let's Get Exploring 
+## Let's Get Exploring 📈
